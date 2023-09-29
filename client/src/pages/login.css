@@ -1,0 +1,26 @@
+.loginPage{
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+/* .new1{
+    background-image: url('../LoginAssets/bgpic1.jpg');
+} */
+.men{
+    margin-left: 190px;
+    margin-top: -80px;
+    color: white;
+}
+
+    .icon{
+        color: var(--greyText);
+    } 
+    input{
+        
+        outline: none;
+        border: none;
+        width: 200px;
+    }
+    .clickhere{
+        font-size: 18px;
+    }
